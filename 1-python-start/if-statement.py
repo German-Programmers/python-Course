@@ -1,5 +1,5 @@
 
-grade = 49
+grade = float(input("enter the grade"))
 if grade >= 50:
     print("Success")
 else:
