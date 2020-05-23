@@ -28,6 +28,10 @@ for i in range(1, len(x)):
         max = x[i]
 
 print("array max = " + str(max))
+
+# homework 
+# write a code to print the min number in the array
+# write a code to print the array avg 
  
 
 
